@@ -10,6 +10,10 @@
   * [apk](as/apk.md)
   * [apparmor](as/apparmor.md)
   * [apt](as/apt.md)
-* [B's](bs.md)
-* [C's](cs.md)
+  * [apt-cache](as/apt-cache.md)
+  * [apt-get](as/apt-get.md)
+* [B's](bs/README.md)
+* [C's](cs/README.md)
+* [D's](ds/README.md)
+
 
